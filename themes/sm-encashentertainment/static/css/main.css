@@ -413,6 +413,9 @@ h1, h2, h3, h4, h5, h6, .heading-font{
     0 100% /* left bottom */
     );
 }
+.aspect-ratio--5x1{
+  padding-bottom: 60%;
+}
 .aspect-ratio--3x1{
   padding-bottom: 35%;
 }
